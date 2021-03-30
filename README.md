@@ -8,3 +8,7 @@ NFT-DAO envisions a comprehensive NFT strategy and open-source framework that en
 We seek an organized community effort to fully define comprehensive requirements for the penultimate NFT platform of any blockchain and build it as a Cardano asset anyone can use to build their specialized marketplaces or NFT solutions upon. 
 
 We can build better together.
+
+# Genesis of the Governance HOLON GitHub
+
+This repository originates from the community of contributers to [Comprehensive NFT Framework Collab](https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088), a [Project Cataylyst](https://cardano.ideascale.com/) proposal that contributes to the future of [Cardano](https://cardano.org/).
