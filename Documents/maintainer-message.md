@@ -12,10 +12,14 @@ At this early stage I have tried to set up the repository as a “back-end” so
 
 The aim here is to publicly demonstrate that we are beginning to develop the FOSS vision set out in the funding proposal - "We seek an organized community effort to fully define comprehensive requirements ..". Then we can point to this repository in upcoming funding proposal as a live product of our communities effort.
 
+The initial content will be NFT-DAO Goverance HOLON materials that are ready for Open Source review.
+
 There are currently 2 live issues in the repository - 
 
 A **Major Issue** : 1) Build an NFT-DAO Organisation repository that can meet the basic Open Source (FOSS) standard (https://github.com/NFT-DAO/Governance-HOLON/issues/7) 
 
 and a **Minor Issue** : 2) Review Code of Conduct (https://github.com/NFT-DAO/Governance-HOLON/issues/4)
 
+I welcome and look forward to any suggestions, amendments, updates, assistance and contributions.
 
+Stephen - https://github.com/stephen-rowan
