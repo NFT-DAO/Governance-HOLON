@@ -18,7 +18,7 @@ At this early stage I have tried to set up the repository as a “back-end” so
 
 The aim here is to publicly demonstrate that we are beginning to develop the FOSS vision set out in the funding proposal - "We seek an organized community effort to fully define comprehensive requirements ..". Then we can point to this repository in upcoming funding proposal as a live product of our communities effort.
 
-## initial content
+## Initial content
 
 The initial content will be NFT-DAO Goverance HOLON materials that are ready for Open Source review.
 
