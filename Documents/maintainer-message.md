@@ -4,7 +4,7 @@ Hey all - I have started building a NFT-DAO Governance repository to FOSS standa
 2) [raise issues on its content](https://guides.github.com/features/issues/)
 3) close issues.
 
-Even though I am a maintainer I am working from a forked copy myself (this means that every change I make is also recorded and commented) to comly with Open Source standards.
+Even though I am a maintainer I am working from a forked copy myself (this means that every change I make is also recorded and commented) to comly with Open Source standards. My activity can be seen here (https://github.com/NFT-DAO/Governance-HOLON/pulls?q=is%3Apr+is%3Aclosed).
 
 I have created a basic projectboard in the repository (https://github.com/NFT-DAO/Governance-HOLON/projects/1) that can be mirrored in samepage (or anything else). 
 
