@@ -19,3 +19,4 @@ This repository originates from the community of contributers to [Comprehensive 
 * Fork this repository
 * Submit Pull Requests
 
+Please refer to this [introductionary message](Documents/maintainer-message.md)
