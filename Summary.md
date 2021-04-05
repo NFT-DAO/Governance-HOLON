@@ -27,17 +27,17 @@
 [08-Our-Market/README.md](https://github.com/NFT-DAO/Governance-HOLON/blob/main/08-Our-Market/README.md)
 
 # 09-Our-Stucture
-[09-Our-Stucture/README.md](https://github.com/NFT-DAO/Governance-HOLON/blob/main/09-Our-Stucture/README.md
+[09-Our-Stucture/README.md](https://github.com/NFT-DAO/Governance-HOLON/blob/main/09-Our-Stucture/README.md)
 
 # 10-Our-Strategy
-[10-Our-Strategy/README.md](https://github.com/NFT-DAO/Governance-HOLON/blob/main/10-Our-Strategy/README.md
+[10-Our-Strategy/README.md](https://github.com/NFT-DAO/Governance-HOLON/blob/main/10-Our-Strategy/README.md)
 
 # 11-Our-systems
-[11-Our-systems/README.md](https://github.com/NFT-DAO/Governance-HOLON/blob/main/11-Our-systems/README.md
+[11-Our-systems/README.md](https://github.com/NFT-DAO/Governance-HOLON/blob/main/11-Our-systems/README.md)
 
 # 12-Our-Conclusion
-[12-Our-Conclusion/README.md](https://github.com/NFT-DAO/Governance-HOLON/blob/main/12-Our-Conclusion/README.md
+[12-Our-Conclusion/README.md](https://github.com/NFT-DAO/Governance-HOLON/blob/main/12-Our-Conclusion/README.md)
 
 # 13-Our-Appendix
-[13-Our-Appendix/README.md](https://github.com/NFT-DAO/Governance-HOLON/blob/main/13-Our-Appendix/README.md
+[13-Our-Appendix/README.md](https://github.com/NFT-DAO/Governance-HOLON/blob/main/13-Our-Appendix/README.md)
 
