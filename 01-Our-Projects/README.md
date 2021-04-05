@@ -1,4 +1,4 @@
-# 1.0-Our-Projects README
+# 01-Our-Projects README
 
 This folder is the location of the "01-Our-Projects" Section of the NFT-DAO Business Canon
 
