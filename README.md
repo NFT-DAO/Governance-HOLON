@@ -1,5 +1,7 @@
 # NFT-DAO Governance HOLON
 
+[A summary of the contents of this repository may be found here](Summary.md)
+
 # Genesis of the Governance HOLON GitHub
 
 This repository originates from the community of contributers to [Comprehensive NFT Framework Collab](https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088), a [Project Cataylyst](https://cardano.ideascale.com/) proposal that contributes to the future of [Cardano](https://cardano.org/).
