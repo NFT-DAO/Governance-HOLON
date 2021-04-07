@@ -13,7 +13,7 @@ Relevant quotes : `Genesis doc`
 
 ## 02 - Values: collated from the aforementioned docs and grouped under common themes,
 
-> Proposals - `Sample DAO Charter`
+> **Proposals** - `Sample DAO Charter`
 
 > > Every significant action of IDO starts with a “proposal” — the initiation of something that has to be tabled to IDO consideration according to the code rules. Each proposal has the following attributes: description, cost, “contractor(s)”. IDO records metadata into the blockchain that consists anchors and links proving the integrity of the document infinitely. Thus, records are available for transparent public use and cannot be changed. If a proposal receives enough votes to pass then IDO transfers the funds to contractor(s).
 
