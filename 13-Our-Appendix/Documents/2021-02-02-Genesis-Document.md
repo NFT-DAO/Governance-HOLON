@@ -1,6 +1,7 @@
 # GENESIS:
 
 | Comprehensive NFT Framework Collab |
+|---|
 | A Catalyst Fund 3 Proposal |
 | Proposed by: Rich Kopcho |
 | Joined By: Finely McIIwaine, Tyler Wales and Troy Egan |
