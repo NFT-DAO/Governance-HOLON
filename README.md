@@ -1,5 +1,5 @@
-# NFT-DAO Governance HOLON
-
+| **NFT-DAO Governance HOLON** | [A summary of the contents of this repository may be found here](Summary.md) |
+|--- |--- |
 
 ## Projects
 
@@ -13,7 +13,7 @@
 |**NFT DAO Fund 3 Deliverables & Projected Costs Governance** - BREAK DELIVERABLES DOWN INTO WEEKLY TASKS | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/2)|
 | **NFT-DAO Git-Hub Open Source Recognition** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/1) |
 
-[A summary of the contents of this repository may be found here](Summary.md)
+
 
 # Genesis of the Governance HOLON GitHub
 
