@@ -23,8 +23,8 @@ Relevant quotes :
 
 | References / Sources |
 |---|
-| Sample DAO Charter |
+| 1 - Sample DAO Charter |
 | https://medium.com/token-suisse/sample-dao-charter-c59f5396ceea |
-| The Genesis doc |
+| 2 - The Genesis doc |
 | [Markdown](https://github.com/NFT-DAO/Governance-HOLON/blob/main/13-Our-Appendix/Documents/2021-02-03-Genesis-Document.md) |
 | [Word](https://github.com/NFT-DAO/Governance-HOLON/files/6261232/GENESIS_OF_NFT_DAO.docx) |
