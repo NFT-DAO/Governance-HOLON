@@ -1,5 +1,7 @@
-| |**NFT-DAO Governance HOLON** | [A summary of the contents of this repository may be found here](Summary.md) |
+| ![DAO](/13-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png)|**NFT-DAO Governance HOLON** | [A summary of the contents of this repository may be found here](Summary.md) |
 |--- |--- |---|
+
+![Drag Racing](Dragster.jpg)
 
 ## Projects
 
