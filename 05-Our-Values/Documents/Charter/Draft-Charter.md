@@ -4,7 +4,7 @@ Text Length : TBA
 
 ## 01 - Introduction - Who We Are/Background ([from the Genesis doc](https://github.com/NFT-DAO/Governance-HOLON/blob/main/13-Our-Appendix/Documents/2021-02-03-Genesis-Document.md))
 
-Relevant quotes :
+Relevant quotes : `Genesis doc`
 
 > Modeling holonic nested heterarchies, we are creating a focused NFT DAO within the Catalyst DAO.  Our hope is the community will see the benefit of building this kind of architecture to focus Cardano NFT efforts and gain explicit experience and speed to market at scale.  
 
@@ -13,7 +13,7 @@ Relevant quotes :
 
 ## 02 - Values: collated from the aforementioned docs and grouped under common themes,
 
-> Proposals
+> Proposals - `Sample DAO Charter`
 
 > > Every significant action of IDO starts with a “proposal” — the initiation of something that has to be tabled to IDO consideration according to the code rules. Each proposal has the following attributes: description, cost, “contractor(s)”. IDO records metadata into the blockchain that consists anchors and links proving the integrity of the document infinitely. Thus, records are available for transparent public use and cannot be changed. If a proposal receives enough votes to pass then IDO transfers the funds to contractor(s).
 
