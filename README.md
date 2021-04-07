@@ -1,5 +1,5 @@
-| **NFT-DAO Governance HOLON** | [A summary of the contents of this repository may be found here](Summary.md) |
-|--- |--- |
+| |**NFT-DAO Governance HOLON** | [A summary of the contents of this repository may be found here](Summary.md) |
+|--- |--- |---|
 
 ## Projects
 
