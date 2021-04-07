@@ -1,4 +1,4 @@
-# Mindfulness Manifesto
+# Mindfulness Policy
 
 We entertain the idea that this planet is a living organism, a holistic system – made of many decentralised parts - that strives for balance and sustainability from chaos, in order to create symbiotic, more efficient & less intrusive forms of life.
 
