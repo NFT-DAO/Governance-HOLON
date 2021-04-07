@@ -5,6 +5,7 @@
 | A Catalyst Fund 3 Proposal |
 | Proposed by: Rich Kopcho |
 | Joined By: Finely McIIwaine, Tyler Wales and Troy Egan |
+| 3rd February 2021 |
 
 
 Link to Catalyst: https://cardano.ideascale.com/a/dtd/334521-48088?show=comments&comment=338606
