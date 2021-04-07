@@ -1,8 +1,8 @@
-| ![DAO](/13-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png)|**NFT-DAO Governance HOLON** | [A summary of the contents of this repository may be found here](Summary.md) |
+| <img src="/13-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" width="200">|**NFT-DAO Governance HOLON** | [A summary of the contents of this repository may be found here](Summary.md) |
 |--- |--- |---|
 
 
-<img src="/13-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" width="400">
+
 
 ## Projects
 
