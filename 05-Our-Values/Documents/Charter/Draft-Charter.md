@@ -2,7 +2,7 @@
 Text Length : TBA
 
 
-## 01 - Introduction - Who We Are/Background ([from the Genesis doc](https://github.com/NFT-DAO/Governance-HOLON/blob/main/13-Our-Appendix/Documents/2021-02-03-Genesis-Document.md))
+## 01 - Introduction - Who We Are/Background
 
 Relevant quotes : `Genesis doc`
 
