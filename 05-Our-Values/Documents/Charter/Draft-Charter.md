@@ -24,7 +24,8 @@ Relevant quotes : `Genesis doc`
 
 ## 04 - Rules of Engagement: pertaining to how holons work and how members can expect to engage within them.
 
-> **Contractors**
+> **Contractors** - `Sample DAO Charter`
+
 
 > > IDO needs “contractors” to accomplish physical tasks such as writing a code, educating a partner or leading the PR activity of IDO project. IDO selects a contractor by accepting a proposal.
 
