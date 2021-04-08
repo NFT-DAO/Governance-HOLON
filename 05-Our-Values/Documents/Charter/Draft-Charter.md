@@ -30,7 +30,7 @@ Relevant quotes : `Genesis doc`
 
 ## 03 - Community Guidelines: Code of Conduct/Rights/Privileges/Expectations drawn from the Values section that members are expected to adhere to and afford others,
 
-> **Code of Conduct** is separate Open-Source deliverable (See this [Issue](https://github.com/NFT-DAO/Governance-HOLON/issues/4)). I suggest it be only referred to in this Charter (Stephen)
+> **Code of Conduct** is a separate Open-Source deliverable (See this [Issue](https://github.com/NFT-DAO/Governance-HOLON/issues/4)). I suggest it be only refered to in this Charter (Stephen)
 
 > **Triage** `Troy` [Source](https://github.com/NFT-DAO/Governance-HOLON/issues/28#issuecomment-814554494))
 
