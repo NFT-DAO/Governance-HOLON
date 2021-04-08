@@ -36,8 +36,11 @@ Relevant quotes : `Genesis doc`
 
 > **Contractors** - `Sample DAO Charter`
 
-
 > > IDO needs “contractors” to accomplish physical tasks such as writing a code, educating a partner or leading the PR activity of IDO project. IDO selects a contractor by accepting a proposal.
+
+> **Peer Facilators / mediators** (between HOLONs) - `The Holonic Enterprise as a Collaborative Information Ecosystem`
+> 
+> > The mediator will fulfill two main functions. First, it acts as the interface between the agents in the holon and between the agents outside the holon (i.e. acts as a type of facilitator); conceptually, it can be thought of as the agent that represents the holon.
 
 | References / Sources |
 |---|
