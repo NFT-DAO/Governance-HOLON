@@ -47,12 +47,10 @@ Relevant quotes : `Genesis doc`
 > > The mediator will fulfill two main functions. First, it acts as the interface between the agents in the holon and between the agents outside the holon (i.e. acts as a type of facilitator); conceptually, it can be thought of as the agent that represents the holon.
 > > 
 
-> **Patterns of Holonic Collaboration** - `The Holonic Enterprise as a Collaborative Information Ecosystem`
-> * Metamorphic - 
-> * Dynamic -
-> * Mediator -
-
-
+> **Patterns of Holonic Collaboration** - adapted from - `The Holonic Enterprise as a Collaborative Information Ecosystem`
+> * Metamorphic - The overall architecture of the Holonic Enterprise builds on this pattern that replicates at all levels.
+> * Dynamic - At all levels of the holonic enterprise, task propagation occurs by a process of virtual cluster (or holarchy) formation
+> * Mediator - supporting the decision-making process (between HOLONs)
 
 | References / Sources |
 |---|
