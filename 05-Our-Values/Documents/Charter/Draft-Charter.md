@@ -45,6 +45,14 @@ Relevant quotes : `Genesis doc`
 > **Peer Facilators / mediators** (between HOLONs) - `The Holonic Enterprise as a Collaborative Information Ecosystem`
 > 
 > > The mediator will fulfill two main functions. First, it acts as the interface between the agents in the holon and between the agents outside the holon (i.e. acts as a type of facilitator); conceptually, it can be thought of as the agent that represents the holon.
+> > 
+
+> **Patterns of Holonic Collaboration** - `The Holonic Enterprise as a Collaborative Information Ecosystem`
+> * Metamorphic - 
+> * Dynamic -
+> * Mediator -
+
+
 
 | References / Sources |
 |---|
