@@ -23,6 +23,10 @@ Relevant quotes : `Genesis doc`
 
 > > Although a complete automation of all processes is impossible, human errors, sabotage, and fraud are minimized as compared to traditionally managed projects.
 
+> **Total Collaboration**  - `The Holonic Enterprise as a Collaborative Information Ecosystem`
+
+> The basic condition for holonic systems is that a holon is simultaneously a “whole” and a “part” of some other whole/holon.
+
 
 ## 03 - Community Guidelines: Code of Conduct/Rights/Privileges/Expectations drawn from the Values section that members are expected to adhere to and afford others,
 
@@ -42,3 +46,5 @@ Relevant quotes : `Genesis doc`
 | 2 - The Genesis doc |
 | [Markdown](https://github.com/NFT-DAO/Governance-HOLON/blob/main/13-Our-Appendix/Documents/2021-02-03-Genesis-Document.md) |
 | [Word](https://github.com/NFT-DAO/Governance-HOLON/files/6261232/GENESIS_OF_NFT_DAO.docx) |
+| 3 - The Holonic Enterprise as a Collaborative Information Ecosystem |
+|[pdf - external link](http://theimpactinstitute.org/Projects/FIPA/Holonic-Enterprise-Final.pdf)|
