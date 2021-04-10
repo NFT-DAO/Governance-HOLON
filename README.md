@@ -2,8 +2,8 @@
 |---|---|
 |  | [A summary of the contents of this repository may be found here](Summary.md)|
 
-<a href="https://github.com/NFT-DAO/Governance-HOLON/graphs/contributors">
-  <img src="https://github.com/NFT-DAO/Governance-HOLON/graphs/contributors.svg?width=890&button=false">
+<a href="https://github.com/NFT-DAO/Governance-HOLON//html-react-parser/graphs/contributors">
+  <img src="https://github.com/NFT-DAO/Governance-HOLON/html-react-parser/graphs/contributors.svg?width=890&button=false">
 </a>
 
 ## Projects
