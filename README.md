@@ -1,4 +1,4 @@
-| <img src="/13-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" width="200">|**NFT-DAO Governance HOLON** | 
+| <img src="/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" width="200">|**NFT-DAO Governance HOLON** | 
 |---|---|
 |  | [A summary of the contents of this repository may be found here](Summary.md)|
 
@@ -10,7 +10,7 @@
 | **Governance HOLON Projects** | |
 |--- | --- |
 | **Business-Plan-Decomposition** - Functional breakdown of the Business Plan into organizational units. | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/3) |
-|<img src="13-Our-Appendix/Graphics/Decomposition of the NFT-DAO Business Plan.png" width="700">||
+|<img src="14-Our-Appendix/Graphics/Decomposition of the NFT-DAO Business Plan.png" width="700">||
 | **NFT-DAO-Manifesto** - Draft 1–3-page Manifesto/Constitution for the DAO. | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4)|
 |**NFT DAO Fund 3 Deliverables & Projected Costs Governance** - BREAK DELIVERABLES DOWN INTO WEEKLY TASKS | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/2)|
 | **NFT-DAO Git-Hub Open Source Recognition** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/1) |
