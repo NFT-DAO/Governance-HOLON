@@ -1,4 +1,4 @@
-![GitHub Contributors Image](https://contrib.rocks/image?repo=NFT-DAO/Governance-HOLON)
+## Contributors : ![GitHub Contributors Image](https://contrib.rocks/image?repo=NFT-DAO/Governance-HOLON)
 
 | <img src="Business-Plan/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" width="200">|**NFT-DAO Governance HOLON** | 
 |---|---|
