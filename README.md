@@ -1,3 +1,5 @@
+![GitHub issues](https://img.shields.io/github/issues/NFT-DAO/Governance-HOLON?style=for-the-badge)
+
 | <img src="Business-Plan/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" width="200">|**NFT-DAO Governance HOLON** | 
 |---|---|
 |  | [A summary of the contents of this repository may be found here](Summary.md)|
