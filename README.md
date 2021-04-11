@@ -7,8 +7,7 @@
 
 ## Projects
 
-| [Project Overview](https://github.com/NFT-DAO/Governance-HOLON/projects) | [Milestones](https://github.com/NFT-DAO/Governance-HOLON/milestones) |
-|--- | --- |
+[Project Overview](https://github.com/NFT-DAO/Governance-HOLON/projects) 
 
 ## Contributors : ![GitHub Contributors Image](https://contrib.rocks/image?repo=NFT-DAO/Governance-HOLON)
 
