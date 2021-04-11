@@ -1,6 +1,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/NFT-DAO/Governance-HOLON?style=flat-square)
 ![GitHub milestones](https://img.shields.io/github/milestones/open/NFT-DAO/Governance-HOLON?style=flat-square)
 
+ [![GitHub issues](https://img.shields.io/github/issues/NFT-DAO/Governance-HOLON?style=flat-square)](https://github.com/NFT-DAO/Governance-HOLON/issues)
+
 | <img src="Business-Plan/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" width="200">|**NFT-DAO Governance HOLON** | 
 |---|---|
 |  | [A summary of the contents of this repository may be found here](Summary.md)|
