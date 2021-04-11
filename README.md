@@ -1,5 +1,5 @@
-![GitHub issues](https://img.shields.io/github/issues/NFT-DAO/Governance-HOLON?style=for-the-badge)
-![GitHub milestones](https://img.shields.io/github/milestones/open/NFT-DAO/Governance-HOLON?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/NFT-DAO/Governance-HOLON?style=flat-square)
+![GitHub milestones](https://img.shields.io/github/milestones/open/NFT-DAO/Governance-HOLON?style=flat-square)
 
 | <img src="Business-Plan/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" width="200">|**NFT-DAO Governance HOLON** | 
 |---|---|
