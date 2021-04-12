@@ -1,13 +1,25 @@
-# NFT-DAO Governance HOLON
+[![GitHub issues](https://img.shields.io/github/issues/NFT-DAO/Governance-HOLON?style=flat-square)](https://github.com/NFT-DAO/Governance-HOLON/issues)
+[![GitHub milestones](https://img.shields.io/github/milestones/open/NFT-DAO/Governance-HOLON?style=flat-square)](https://github.com/NFT-DAO/Governance-HOLON/milestones)
 
-# Our Vision
+| <img src="Business-Plan/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" width="200">|**NFT-DAO Governance HOLON** | 
+|---|---|
+|  | [A summary of the contents of this repository may be found here](Summary.md)|
 
-NFT-DAO envisions an open-source composable NFT framework for all—instead of multiple point solutions only benefiting some.
-NFT-DAO envisions a comprehensive NFT strategy and open-source framework that enables all users (technical and non-technical) to easily deploy industry specific tokenized asset marketplaces.
+## Projects
 
-We seek an organized community effort to fully define comprehensive requirements for the penultimate NFT platform of any blockchain and build it as a Cardano asset anyone can use to build their specialized marketplaces or NFT solutions upon. 
+[Project Overview](https://github.com/NFT-DAO/Governance-HOLON/projects) 
 
-We can build better together.
+## Contributors : ![GitHub Contributors Image](https://contrib.rocks/image?repo=NFT-DAO/Governance-HOLON)
+
+| **Governance HOLON Projects** | |
+|--- | --- |
+| **Business-Plan-Decomposition** - Functional breakdown of the Business Plan into organizational units. | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/3) |
+|<img src="Business-Plan/14-Our-Appendix/Graphics/Decomposition of the NFT-DAO Business Plan.png" width="700">||
+| **NFT-DAO-Manifesto** - Draft 1–3-page Manifesto/Constitution for the DAO. | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4)|
+|**NFT DAO Fund 3 Deliverables & Projected Costs Governance** - BREAK DELIVERABLES DOWN INTO WEEKLY TASKS | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/2)|
+| **NFT-DAO Git-Hub Open Source Recognition** | [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/1) |
+
+
 
 # Genesis of the Governance HOLON GitHub
 
@@ -19,4 +31,4 @@ This repository originates from the community of contributers to [Comprehensive 
 * Fork this repository
 * Submit Pull Requests
 
-Please refer to this [introductionary message](Documents/maintainer-message.md)
+Please refer to this [introductionary message](13-Our-Appendix/maintainer-message.md)
