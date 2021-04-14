@@ -24,6 +24,10 @@ Break Deleiverables down into weekly tasks
 Draft 1–3-page Manifesto/Constitution for the DAO.
 [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4)
 
+### Governance token distribution model
+NFT DAO Fund 3 Deliverable
+[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5)
+
 ### Business-Plan-Decomposition
 Functional breakdown of the Business Plan into organizational units.
 [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/3) 
