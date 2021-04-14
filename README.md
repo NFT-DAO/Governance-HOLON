@@ -12,7 +12,7 @@
 
 [Project Overview](https://github.com/NFT-DAO/Governance-HOLON/projects) 
 
-## Contributors : ![GitHub Contributors Image](https://contrib.rocks/image?repo=NFT-DAO/Governance-HOLON)
+
 
 | **Governance HOLON Projects** | |
 |--- | --- |
@@ -32,5 +32,7 @@ This repository originates from the community of contributers to [Comprehensive 
 * Submit Pull Requests
 
 <img src="Business-Plan/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" align="right" width="200">
+
+## Contributors : ![GitHub Contributors Image](https://contrib.rocks/image?repo=NFT-DAO/Governance-HOLON)
 
 
