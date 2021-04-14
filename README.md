@@ -35,7 +35,7 @@ Functional breakdown of the Business Plan into organizational units.
 ### NFT-DAO Git-Hub Open Source Recognition
 [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/1)
 
-# Genesis of the Governance HOLON GitHub
+## Genesis of the Governance HOLON GitHub
 
 This repository originates from the community of contributers to [Comprehensive NFT Framework Collab](https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088), a [Project Cataylyst](https://cardano.ideascale.com/) proposal that contributes to the future of [Cardano](https://cardano.org/).
 
