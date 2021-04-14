@@ -17,7 +17,7 @@
 [Project Overview](https://github.com/NFT-DAO/Governance-HOLON/projects) 
 
 ### NFT DAO Fund 3 Deliverables & Projected Costs Governance
-> Break Deleiverables down into weekly tasks
+> Break Deliverables down into weekly tasks
 [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/2)
 
 ### NFT-DAO Charter
