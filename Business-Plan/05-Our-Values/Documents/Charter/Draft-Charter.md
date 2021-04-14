@@ -32,7 +32,7 @@ Relevant quotes : `Genesis doc`
 
 > **Code of Conduct** is a separate Open-Source deliverable (See this [Issue](https://github.com/NFT-DAO/Governance-HOLON/issues/4)). I suggest it be only refered to in this Charter (Stephen)
 
-> **Triage** `Troy` [Source](https://github.com/NFT-DAO/Governance-HOLON/issues/28#issuecomment-814554494))
+> **Triage** `Troy` ([Source](https://github.com/NFT-DAO/Governance-HOLON/issues/28#issuecomment-814554494))
 
 > "a process for triaging consensus levels (ie, ratification levels dependent upon holon-levels in the community)" 
 
