@@ -16,28 +16,36 @@
 
 [Project Overview](https://github.com/NFT-DAO/Governance-HOLON/projects) 
 
-### 1) NFT-DAO Git-Hub Open Source Recognition
-[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/1)
 
-### 2) NFT DAO Fund 3 Deliverables & Projected Costs Governance
+### NFT DAO Fund 3 Deliverables & Projected Costs Governance
 > Break Deliverables down into weekly tasks
-> 
+
 [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/2)
 
-### 3) Business-Plan-Decomposition
+
+### Governance token distribution model
+> NFT DAO Fund 3 Deliverable
+
+[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5)
+
+
+### NFT-DAO Git-Hub Open Source Recognition
+[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/1)
+
+#### Code of Conduct
+[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/6)
+
+### Business-Plan-Decomposition
 > Functional breakdown of the Business Plan into organizational units.
-> 
+
 [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/3) 
 
-### 4) NFT-DAO Charter
+### NFT-DAO Charter
 > Draft 1–3-page Manifesto/Constitution for the DAO.
 
 [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4)
 
-### 5) Governance token distribution model
-> NFT DAO Fund 3 Deliverable
 
-[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/5)
 
 
 ## Genesis of the Governance HOLON GitHub
