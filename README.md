@@ -18,11 +18,11 @@
 
 ### NFT DAO Fund 3 Deliverables & Projected Costs Governance
 Break Deleiverables down into weekly tasks
-[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/2)|
+[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/2)
 
 ### NFT-DAO Charter
 Draft 1–3-page Manifesto/Constitution for the DAO.
-[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4)|
+[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4)
 
 ### Business-Plan-Decomposition
 Functional breakdown of the Business Plan into organizational units.
