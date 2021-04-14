@@ -40,9 +40,3 @@ This repository originates from the community of contributers to [Comprehensive 
 * Submit issues
 * Fork this repository
 * Submit Pull Requests
-
-
-
-## Contributors : ![GitHub Contributors Image](https://contrib.rocks/image?repo=NFT-DAO/Governance-HOLON)
-
-
