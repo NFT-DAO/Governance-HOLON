@@ -4,6 +4,8 @@ Text Length : TBA
 
 ## 01 - Introduction - Who We Are/Background
 
+We are a community ...with a diverse background ...
+
 Relevant quotes : `Genesis doc`
 
 > Modeling holonic nested heterarchies, we are creating a focused NFT DAO within the Catalyst DAO.  Our hope is the community will see the benefit of building this kind of architecture to focus Cardano NFT efforts and gain explicit experience and speed to market at scale.  
@@ -12,6 +14,8 @@ Relevant quotes : `Genesis doc`
 
 
 ## 02 - Values: collated from the aforementioned docs and grouped under common themes,
+
+Our values are ... Transparency ... Total Collaboration
 
 > **Proposals** - `Sample DAO Charter`
 
@@ -30,13 +34,17 @@ Relevant quotes : `Genesis doc`
 
 ## 03 - Community Guidelines: Code of Conduct/Rights/Privileges/Expectations drawn from the Values section that members are expected to adhere to and afford others,
 
+Our community has a Code of Conduct that .... we triage our consensus via mechanism of ....
+
 > **Code of Conduct** is a separate Open-Source deliverable (See this [Issue](https://github.com/NFT-DAO/Governance-HOLON/issues/4)). I suggest it be only refered to in this Charter (Stephen)
 
-> **Triage** `Troy` [Source](https://github.com/NFT-DAO/Governance-HOLON/issues/28#issuecomment-814554494))
+> **Triage** `Troy` ([Source](https://github.com/NFT-DAO/Governance-HOLON/issues/28#issuecomment-814554494))
 
 > "a process for triaging consensus levels (ie, ratification levels dependent upon holon-levels in the community)" 
 
 ## 04 - Rules of Engagement: pertaining to how holons work and how members can expect to engage within them.
+
+This is how we onboard new members ... what opportunties there are ... who mentors ...
 
 > **Contractors** - `Sample DAO Charter`
 
@@ -52,12 +60,14 @@ Relevant quotes : `Genesis doc`
 > * Dynamic - At all levels of the holonic enterprise, task propagation occurs by a process of virtual cluster (or holarchy) formation
 > * Mediator - supporting the decision-making process (between HOLONs)
 
-| References / Sources |
-|---|
-| 1 - Sample DAO Charter |
-| https://medium.com/token-suisse/sample-dao-charter-c59f5396ceea |
-| 2 - The Genesis doc |
-| [Markdown](https://github.com/NFT-DAO/Governance-HOLON/blob/main/13-Our-Appendix/Documents/2021-02-03-Genesis-Document.md) |
-| [Word](https://github.com/NFT-DAO/Governance-HOLON/files/6261232/GENESIS_OF_NFT_DAO.docx) |
-| 3 - The Holonic Enterprise as a Collaborative Information Ecosystem |
-|[pdf - external link](http://theimpactinstitute.org/Projects/FIPA/Holonic-Enterprise-Final.pdf)|
+### References / Sources
+
+####  1 - Sample DAO Charter
+https://medium.com/token-suisse/sample-dao-charter-c59f5396ceea
+
+#### 2 - The Genesis doc
+[Markdown](https://github.com/NFT-DAO/Governance-HOLON/blob/main/13-Our-Appendix/Documents/2021-02-03-Genesis-Document.md)
+[Word](https://github.com/NFT-DAO/Governance-HOLON/files/6261232/GENESIS_OF_NFT_DAO.docx)
+
+#### 3 - The Holonic Enterprise as a Collaborative Information Ecosystem
+[pdf - external link](http://theimpactinstitute.org/Projects/FIPA/Holonic-Enterprise-Final.pdf)
