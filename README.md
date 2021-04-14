@@ -1,7 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/NFT-DAO/Governance-HOLON?style=flat-square)](https://github.com/NFT-DAO/Governance-HOLON/issues)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/NFT-DAO/Governance-HOLON?style=flat-square)](https://github.com/NFT-DAO/Governance-HOLON/milestones)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/NFT-DAO/Governance-HOLON?style=flat-square)](https://github.com/NFT-DAO/Governance-HOLON/issues?q=is%3Aissue+is%3Aclosed)
-
+<img src="Business-Plan/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" align="right" width="200">
 [Ideas Contributed on ideascale - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)
 
 **NFT-DAO Governance HOLON**
@@ -31,7 +31,7 @@ This repository originates from the community of contributers to [Comprehensive 
 * Fork this repository
 * Submit Pull Requests
 
-<img src="Business-Plan/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" align="right" width="200">
+
 
 ## Contributors : ![GitHub Contributors Image](https://contrib.rocks/image?repo=NFT-DAO/Governance-HOLON)
 
