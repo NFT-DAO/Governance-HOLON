@@ -5,7 +5,7 @@
 
 # NFT-DAO Governance HOLON
 
-[A summary of the contents of this repository may be found here](Summary.md)
+[A summary of the contents of this repository may be found here](Business-Plan/Summary.md)
 
 
 ## Project Catalyst
