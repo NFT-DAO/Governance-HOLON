@@ -5,6 +5,14 @@
 
 # NFT-DAO Governance HOLON
 
+## Discussions
+
+### General Discussion ?
+> go to https://github.com/NFT-DAO/Governance-HOLON/discussions and join in.
+### Questions and Answers (Q&A) ?
+> go to https://github.com/NFT-DAO/Governance-HOLON/discussions/categories/q-a and join in.
+
+
 ## Business Plan
 [A summary of the contents of the **Business Plan** section may be found here](Business-Plan/Summary.md)
 
@@ -16,22 +24,11 @@ For documentation of meetings and/or links to meeting videos go to [Meetings](/M
 
 ## Documents
 
-For documentation of the TBA subject go to [Documents](/Documents/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
-
+For documents not related to NFT-DAO's Business Plan go to [Documents](/Documents/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
 
 ## Project Catalyst
 
 [Ideas Contributed on ideascale by **NFT-DAO (the whole team)** - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)  
-
-## Discussions
-
-### General Discussion ?
-> go to https://github.com/NFT-DAO/Governance-HOLON/discussions and join in.
-### Questions and Answers (Q&A) ?
-> go to https://github.com/NFT-DAO/Governance-HOLON/discussions/categories/q-a and join in.
-
-
-
 
 # Projects
 
@@ -65,9 +62,6 @@ For documentation of the TBA subject go to [Documents](/Documents/). Each folder
 > Draft 1–3-page Manifesto/Constitution for the DAO.
 
 [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4)
-
-
-
 
 ## Genesis of the Governance HOLON GitHub
 
