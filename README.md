@@ -5,7 +5,18 @@
 
 # NFT-DAO Governance HOLON
 
-[A summary of the contents of this repository may be found here](Business-Plan/Summary.md)
+## Business Plan
+[A summary of the contents of the **Business Plan** repository may be found here](Business-Plan/Summary.md)
+
+## Meetings
+
+Meeting Minutes are recorded in Discussions (e.g. [meeting - TBA)(). To allow for threaded comments.
+
+For documentation of meetings and/or links to meeting videos go to [Meetings](/Meetings). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
+
+## Documents
+
+For documentation of the TBA subject go to [Documents](/Documents/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
 
 
 ## Project Catalyst
@@ -18,18 +29,6 @@
 > go to https://github.com/NFT-DAO/Governance-HOLON/discussions and join in.
 ### Questions and Answers (Q&A) ?
 > go to https://github.com/NFT-DAO/Governance-HOLON/discussions/categories/q-a and join in.
-
-## Meetings
-
-Meeting Minutes are recorded in Discussions (e.g. [meeting - TBA)(). To allow for threaded comments.
-
-For documentation of meetings and/or links to meeting videos go to [Meetings](/Meetings). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
-
-## Documents
-
-For documentation of the TBA subject go to [Documents](/Documents/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
-
-## Proposals
 
 
 
