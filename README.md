@@ -15,6 +15,11 @@ https://nft-dao.org/
 
 [Ideas Contributed on ideascale by **NFT-DAO (the whole team)** - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)  
 
+1- [Contribution Token Governance Model](https://cardano.ideascale.com/a/dtd/Contribution-Token-Governance-Model/352773-48088)
+1- [NFTDAO: Industry Standards 1](https://cardano.ideascale.com/a/dtd/NFTDAO-Industry-Standards-1/352362-48088)
+1- [CNS as NFT (Cardano Name Service)](https://cardano.ideascale.com/a/dtd/CNS-as-NFT-Cardano-Name-Service/352159-48088)
+
+
 ## Meetings
 Meeting Minutes are recorded in Discussions (e.g. [meeting - TBA)(). To allow for threaded comments.
 
