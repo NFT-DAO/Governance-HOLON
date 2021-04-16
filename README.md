@@ -18,6 +18,11 @@ https://nft-dao.org/
 1. [Contribution Token Governance Model](https://cardano.ideascale.com/a/dtd/Contribution-Token-Governance-Model/352773-48088)
 1. [NFTDAO: Industry Standards 1](https://cardano.ideascale.com/a/dtd/NFTDAO-Industry-Standards-1/352362-48088)
 1. [CNS as NFT (Cardano Name Service)](https://cardano.ideascale.com/a/dtd/CNS-as-NFT-Cardano-Name-Service/352159-48088)
+2. [Ticket Dispenser—NFT Framework DApp ](https://cardano.ideascale.com/a/dtd/Ticket-Dispenser%E2%80%94NFT-Framework-DApp/352152-48088)
+3. [Interoperable NFTs across chains ](https://cardano.ideascale.com/a/dtd/Interoperable-NFTs-across-chains/352132-48088)
+4. [Stripe-like Wallet Connector ](Stripe-like Wallet Connector )
+5. [NFT-DAO EZ-on ](https://cardano.ideascale.com/a/dtd/NFT-DAO-EZ-on/341773-48088)
+6. [NFT-DAO NFT metadata standards ](https://cardano.ideascale.com/a/dtd/NFT-DAO-NFT-metadata-standards/341012-48088)
 
 
 ## Meetings
