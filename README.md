@@ -7,7 +7,7 @@ https://nft-dao.org/
 
 # NFT-DAO Governance HOLON
 
-## Particpate in our Discussions :
+## Participate in our Discussions :
 [Welcome !](https://github.com/NFT-DAO/Governance-HOLON/discussions/50)
 
 ## Business Plan
