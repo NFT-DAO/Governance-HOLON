@@ -26,7 +26,7 @@ For documentation of meetings and/or links to meeting videos go to [Meetings](/M
 For documents not related to NFT-DAO's Business Plan go to [Documents](/Documents/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
 
 ## Project Catalyst
-<img src="Business-Plan/14-Our-Appendix/Graphics/Ideascale'jpg" align="right" width="200">
+<img src="Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="200">
 [Ideas Contributed on ideascale by **NFT-DAO (the whole team)** - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)  
 
 # Projects
