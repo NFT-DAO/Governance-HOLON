@@ -10,8 +10,10 @@ https://nft-dao.org/
 ## Participate in our Discussions :
 [Welcome !](https://github.com/NFT-DAO/Governance-HOLON/discussions/50)
 
-## Business Plan
-[A summary of the contents of the **Business Plan** section may be found here](Business-Plan/Summary.md)
+## Project Catalyst
+<img src="Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="100">
+
+[Ideas Contributed on ideascale by **NFT-DAO (the whole team)** - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)  
 
 ## Meetings
 Meeting Minutes are recorded in Discussions (e.g. [meeting - TBA)(). To allow for threaded comments.
@@ -21,10 +23,8 @@ For documentation of meetings and/or links to meeting videos go to [Meetings](/M
 ## Documents
 For documents not related to NFT-DAO's Business Plan go to [Documents](/Documents/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
 
-## Project Catalyst
-<img src="Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="100">
-
-[Ideas Contributed on ideascale by **NFT-DAO (the whole team)** - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)  
+## Business Plan
+[A summary of the contents of the **Business Plan** section may be found here](Business-Plan/Summary.md)
 
 # Projects
 [Project Overview](https://github.com/NFT-DAO/Governance-HOLON/projects) 
