@@ -15,14 +15,14 @@ https://nft-dao.org/
 
 [Ideas Contributed on ideascale by **NFT-DAO (the whole team)** - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)  
 
-1. [Contribution Token Governance Model](https://cardano.ideascale.com/a/dtd/Contribution-Token-Governance-Model/352773-48088)
-1. [NFTDAO: Industry Standards 1](https://cardano.ideascale.com/a/dtd/NFTDAO-Industry-Standards-1/352362-48088)
-1. [CNS as NFT (Cardano Name Service)](https://cardano.ideascale.com/a/dtd/CNS-as-NFT-Cardano-Name-Service/352159-48088)
-2. [Ticket Dispenser—NFT Framework DApp ](https://cardano.ideascale.com/a/dtd/Ticket-Dispenser%E2%80%94NFT-Framework-DApp/352152-48088)
-3. [Interoperable NFTs across chains ](https://cardano.ideascale.com/a/dtd/Interoperable-NFTs-across-chains/352132-48088)
-4. [Stripe-like Wallet Connector ](https://cardano.ideascale.com/a/dtd/Stripe-like-Wallet-Connector/352126-48088)
-5. [NFT-DAO EZ-on ](https://cardano.ideascale.com/a/dtd/NFT-DAO-EZ-on/341773-48088)
-6. [NFT-DAO NFT metadata standards ](https://cardano.ideascale.com/a/dtd/NFT-DAO-NFT-metadata-standards/341012-48088)
+1. [Contribution Token Governance Model](https://cardano.ideascale.com/a/dtd/Contribution-Token-Governance-Model/352773-48088)(Discussion)
+1. [NFTDAO: Industry Standards 1](https://cardano.ideascale.com/a/dtd/NFTDAO-Industry-Standards-1/352362-48088)(Discussion)
+1. [CNS as NFT (Cardano Name Service)](https://cardano.ideascale.com/a/dtd/CNS-as-NFT-Cardano-Name-Service/352159-48088)(Discussion)
+2. [Ticket Dispenser—NFT Framework DApp ](https://cardano.ideascale.com/a/dtd/Ticket-Dispenser%E2%80%94NFT-Framework-DApp/352152-48088)(Discussion)
+3. [Interoperable NFTs across chains ](https://cardano.ideascale.com/a/dtd/Interoperable-NFTs-across-chains/352132-48088)(Discussion)
+4. [Stripe-like Wallet Connector ](https://cardano.ideascale.com/a/dtd/Stripe-like-Wallet-Connector/352126-48088)(Discussion)
+5. [NFT-DAO EZ-on ](https://cardano.ideascale.com/a/dtd/NFT-DAO-EZ-on/341773-48088)(Discussion)
+6. [NFT-DAO NFT metadata standards ](https://cardano.ideascale.com/a/dtd/NFT-DAO-NFT-metadata-standards/341012-48088)(Discussion)
 
 
 ## Meetings
