@@ -3,6 +3,8 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/NFT-DAO/Governance-HOLON?style=flat-square)](https://github.com/NFT-DAO/Governance-HOLON/issues?q=is%3Aissue+is%3Aclosed)
 <img src="Business-Plan/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" align="right" width="200">
 
+https://nft-dao.org/
+
 # NFT-DAO Governance HOLON
 
 ## Particpate in our Discussions :
