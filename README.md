@@ -10,7 +10,7 @@
 
 ## Project Catalyst
 
-[Ideas Contributed on ideascale - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)
+[Ideas Contributed on ideascale by **NFT-DAO (the whole team)** - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)  
 
 ## Discussions
 
