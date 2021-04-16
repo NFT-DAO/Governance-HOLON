@@ -31,23 +31,15 @@ For documents not related to NFT-DAO's Business Plan go to [Documents](/Document
 # Projects
 [Project Overview](https://github.com/NFT-DAO/Governance-HOLON/projects) 
 
-
 ## NFT DAO Fund 3 Deliverables & Projected Costs Governance
 > Break Deliverables down into weekly tasks
 
 [Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/2)
 
-## NFT-DAO Charter
-> Draft 1–3-page Manifesto/Constitution for the DAO.
-
-[Project Board](https://github.com/NFT-DAO/Governance-HOLON/projects/4)
-
 ## Genesis of the Governance HOLON GitHub
-
 This repository originates from the community of contributers to [Comprehensive NFT Framework Collab](https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088), a [Project Cataylyst](https://cardano.ideascale.com/) proposal that contributes to the future of [Cardano](https://cardano.org/).
 
 ## To participate in the NFT-DAO Governance HOLON GitHub :
-
 * Submit issues
 * Fork this repository
 * Submit Pull Requests
