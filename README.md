@@ -6,7 +6,7 @@
 # NFT-DAO Governance HOLON
 
 ## Business Plan
-[A summary of the contents of the **Business Plan** repository may be found here](Business-Plan/Summary.md)
+[A summary of the contents of the **Business Plan** section may be found here](Business-Plan/Summary.md)
 
 ## Meetings
 
