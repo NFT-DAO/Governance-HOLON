@@ -15,7 +15,8 @@ We have a deep bench of folks focused on this now
 
 # Detailed plan (not required) - Fill in here any additional details
 ==============================================================================
-QA-DAO Contribution :
+
+## QA-DAO Contribution :
 
 
 
