@@ -18,6 +18,10 @@ We have a deep bench of folks focused on this now
 
 ## QA-DAO Contribution :
 
+### Contribution Token model.
+
+NFT-DAO will define a Token Template using InterWorkAlliance's TokenTaxonomyFramework that will form the basis for a Contribution Token model.
+
 
 
 
