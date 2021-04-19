@@ -33,6 +33,6 @@ TBD - Troy working on the deets
 
 Requested funds in USD 10500
 
-# definitions
+# Definitions
 
 Which of these definitions apply to you? Developer, Teacher, Community manager, Other/Prefer not to say, Marketing professional, Entrepreneur, Stakepool operator
