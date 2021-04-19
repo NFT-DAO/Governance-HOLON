@@ -1,6 +1,5 @@
 # Contribution Token Governance Model
 > NFT-DAO (the whole team) Troy Dan Verowski +1 kudos icon 7 NFT-DAO (the whole team) , Troy , Dan Verowski And Stephen Whitenstall
-5 days ago
 
 # Problem statement :
 
