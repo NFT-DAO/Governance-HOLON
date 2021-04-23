@@ -11,8 +11,9 @@ https://nft-dao.org/
 [Welcome !](https://github.com/NFT-DAO/Governance-HOLON/discussions/50)
 
 ## Project Catalyst
-<img src="Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="100">
+<a href="https://cardano.ideascale.com/a/index"><img src="Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="100">
 <a href="https://cardano.org/"><img src="Business-Plan/14-Our-Appendix/Graphics/cardano-logo-2.png" align="right" width="100">
+
 
 [Ideas Contributed on ideascale by **NFT-DAO (the whole team)** - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)  
 
