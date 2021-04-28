@@ -1,9 +1,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/NFT-DAO/Governance-HOLON?style=flat-square)](https://github.com/NFT-DAO/Governance-HOLON/issues)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/NFT-DAO/Governance-HOLON?style=flat-square)](https://github.com/NFT-DAO/Governance-HOLON/milestones)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/NFT-DAO/Governance-HOLON?style=flat-square)](https://github.com/NFT-DAO/Governance-HOLON/issues?q=is%3Aissue+is%3Aclosed)
-<img src="Business-Plan/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" align="right" width="200">
-
-https://nft-dao.org/
+<a href="https://nft-dao.org/"><img src="Business-Plan/14-Our-Appendix/Graphics/Transparent_Logo_Small_On_White.png" align="right" width="200">
 
 # NFT-DAO Governance HOLON
 
@@ -11,7 +9,9 @@ https://nft-dao.org/
 [Welcome !](https://github.com/NFT-DAO/Governance-HOLON/discussions/50)
 
 ## Project Catalyst
-<img src="Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="100">
+<a href="https://cardano.ideascale.com/a/index"><img src="Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="100">
+<a href="https://cardano.org/"><img src="Business-Plan/14-Our-Appendix/Graphics/cardano-logo-2.png" align="right" width="100">
+
 
 [Ideas Contributed on ideascale by **NFT-DAO (the whole team)** - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)  
 
