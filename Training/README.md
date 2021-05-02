@@ -23,7 +23,7 @@ Any NFT-DAO HOLON members may request their own repos with Admin rights which th
 
 ## Developers
 
-Any developers with GitHub experience are encourgaed to participate by issuing pull requests to add content or raise issues.
+Any developers with GitHub experience are encourgaed to participate by issuing pull requests to add content or raise issues on these training materials.
 
 ## The beginning
 
