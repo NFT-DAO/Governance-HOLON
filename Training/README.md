@@ -1,5 +1,7 @@
 # Welcome to Gov-HOLON GitHub Training
 
+Project Board - https://github.com/NFT-DAO/Governance-HOLON/projects/10
+
 ## Overview 
 
 Here we aim to :
