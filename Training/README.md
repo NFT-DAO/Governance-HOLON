@@ -1,4 +1,14 @@
-# Training README
+# Welcome to Gov-HOLON GitHub Training
+
+Here we aim to :
+
+* reduce barriers of entry to GitHub
+* encourage participation in NFT-DAO's Governance
+* collaborate in developing NFT-DAO's Governance
+
+
+
+
 
 
 
