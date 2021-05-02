@@ -37,3 +37,9 @@ The current subjects are -
 
 * [03-GitHub-Discussions](03-GitHub-Discussions.md )
 
+## The future
+
+We will progress together onto the core features of GitHub  - looking at Projects, Milestones, Issues, Pull Requests etc.
+
+S
+
