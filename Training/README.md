@@ -8,19 +8,17 @@ Here we aim to :
 
 
 These materials will iteratively develop in the course of training Gov-HOLON members over the next few weeks.
-What works will be kept and refined further.
-What does not work will be recorded as a lesson learnt.
+* What works will be kept and refined further.
+* What does not work will be recorded as a lesson learnt.
 
 
+A GitHub Sandbox Organisation is available at https://github.com/Ek-phrasis/. 
 
+Any NFT-DAO HOLON members may request their own repos with Admin rights which they can play with and break.
 
+Any developers with GitHub experience are encourgaed to participate by issuing pull requests to add content or raise issues.
 
-https://github.com/Ek-phrasis/
+The emphasis in the beginning will be on allowing all NFT-DAO HOLON members to use our GitHub for documenation and threaded discussion.
 
+The current subjects are - 
 
-## Draft Curriculum
-
-1. Brief Overview - what is GitHub for ?
-2. GitHub is for plain text and code version control.
-1. Start with screen sharing on Troy and Sev's side to explore their own repos
-1. GitHub Discussions
