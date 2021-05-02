@@ -9,7 +9,7 @@ Here we aim to :
 * Reduce barriers of entry to GitHub use.
 * Encourage participation in NFT-DAO's Governance.
 * Collaborate in developing NFT-DAO's Governance.
-
+* Track contributions for token rewards and incentives.
 
 These materials will iteratively develop in the course of training Gov-HOLON members over the next few weeks.
 * What works will be kept and refined further.
