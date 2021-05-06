@@ -15,7 +15,7 @@ Relevant quotes : `Genesis doc`
 
 ## 02 - Values: collated from the aforementioned docs and grouped under common themes,
 
-Our values are ... Transparency ... Total Collaboration
+Our values are ... Transparency ... Total Collaboration.
 
 > **Proposals** - `Sample DAO Charter`
 
