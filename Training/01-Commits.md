@@ -1,10 +1,10 @@
 ## Practical work - Committing a file
 
-1. Go to your repos at your organization. An GitHub organization is typically contains all the repos a company or project is working on.
+1. Go to your sandbox repository at your GitHUb organization (An GitHub organization is typically contains all the repos a company or project is working on) .
 
-2. And find a short word document or pdf you have worked on and select all the text and copy it to the clipboard.
+2. Find a short word document or PDF you have worked on and select all the text and copy it to the clipboard.
 
-3. Then click on the little pencil on the first page of the repo (called a README.md page). The .md extension stands for Markdown.
+3. Click on the little pencil on the first page of your repository, called a README.md page (The .md extension stands for Markdown).
 
 4. This will open an edit file page. Paste all the text you have coped from your document into this page. Don't worry how it looks at this stage.
 
