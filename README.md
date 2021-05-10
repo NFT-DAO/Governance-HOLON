@@ -5,11 +5,16 @@
 
 # NFT-DAO Governance HOLON
 
-## Participate in our Discussions :
-[Welcome !](https://github.com/NFT-DAO/Governance-HOLON/discussions/50)
+## To participate in the NFT-DAO Governance HOLON GitHub :
+* Submit issues
+* Fork this repository
+* Submit Pull Requests
 
 ## Meetings
 Meeting Minutes are recorded in [Discussions](https://github.com/NFT-DAO/Governance-HOLON/discussions/categories/meetings). To allow for threaded comments.
+
+## Participate in our Discussions :
+[Welcome !](https://github.com/NFT-DAO/Governance-HOLON/discussions/50)
 
 ## Project Catalyst
 <a href="https://cardano.ideascale.com/a/index"><img src="Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="100">
@@ -44,11 +49,6 @@ For documents not related to NFT-DAO's Business Plan go to [Documents](/Document
 
 ## Genesis of the Governance HOLON GitHub
 This repository originates from the community of contributers to [Comprehensive NFT Framework Collab](https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088), a [Project Cataylyst](https://cardano.ideascale.com/) proposal that contributes to the future of [Cardano](https://cardano.org/).
-
-## To participate in the NFT-DAO Governance HOLON GitHub :
-* Submit issues
-* Fork this repository
-* Submit Pull Requests
 
 
 
