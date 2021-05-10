@@ -25,7 +25,7 @@
 6. **[NFT-DAO NFT metadata standards ](https://cardano.ideascale.com/a/dtd/NFT-DAO-NFT-metadata-standards/341012-48088)**- [Discussion](https://github.com/NFT-DAO/Governance-HOLON/discussions/62)
 
 ## Meetings
-Meeting Minutes are recorded in Discussions (e.g. [meeting - TBA)(). To allow for threaded comments.
+Meeting Minutes are recorded in [Discussions](https://github.com/NFT-DAO/Governance-HOLON/discussions/categories/meetings). To allow for threaded comments.
 
 For documentation of meetings and/or links to meeting videos go to [Meetings](/Meetings). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
 
