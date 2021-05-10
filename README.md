@@ -8,10 +8,12 @@
 ## Participate in our Discussions :
 [Welcome !](https://github.com/NFT-DAO/Governance-HOLON/discussions/50)
 
+## Meetings
+Meeting Minutes are recorded in [Discussions](https://github.com/NFT-DAO/Governance-HOLON/discussions/categories/meetings). To allow for threaded comments.
+
 ## Project Catalyst
 <a href="https://cardano.ideascale.com/a/index"><img src="Business-Plan/14-Our-Appendix/Graphics/ideascale.png" align="right" width="100">
 <a href="https://cardano.org/"><img src="Business-Plan/14-Our-Appendix/Graphics/cardano-logo-2.png" align="right" width="100">
-
 
 [Ideas Contributed on ideascale by **NFT-DAO (the whole team)** - Project Catalyst](https://cardano.ideascale.com/a/pmd/3071109-48088?)  
 
@@ -24,10 +26,7 @@
 5. **[NFT-DAO EZ-on ](https://cardano.ideascale.com/a/dtd/NFT-DAO-EZ-on/341773-48088)** - [Discussion](https://github.com/NFT-DAO/Governance-HOLON/discussions/61)
 6. **[NFT-DAO NFT metadata standards ](https://cardano.ideascale.com/a/dtd/NFT-DAO-NFT-metadata-standards/341012-48088)**- [Discussion](https://github.com/NFT-DAO/Governance-HOLON/discussions/62)
 
-## Meetings
-Meeting Minutes are recorded in [Discussions](https://github.com/NFT-DAO/Governance-HOLON/discussions/categories/meetings). To allow for threaded comments.
 
-For documentation of meetings and/or links to meeting videos go to [Meetings](/Meetings). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
 
 ## Documents
 For documents not related to NFT-DAO's Business Plan go to [Documents](/Documents/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
