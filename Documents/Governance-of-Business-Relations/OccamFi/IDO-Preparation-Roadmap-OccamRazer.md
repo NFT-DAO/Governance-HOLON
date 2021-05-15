@@ -10,7 +10,7 @@ April 30, 2021
 
 [Stage II – Minimum Viable Product (MVP)](https://github.com/stephen-rowan/Governance-HOLON/blob/main/Documents/Governance-of-Business-Relations/OccamFi/IDO-Preparation-Roadmap-OccamRazer.md#stage-ii--minimum-viable-product-mvp)
 
-[Stage III -IDO Ready]()
+[Stage III -IDO Ready](https://github.com/stephen-rowan/Governance-HOLON/blob/main/Documents/Governance-of-Business-Relations/OccamFi/IDO-Preparation-Roadmap-OccamRazer.md#stage-iii---ido-ready)
 
 [Attachment-OccamFi Due Diligence Documentation Request]()
 
