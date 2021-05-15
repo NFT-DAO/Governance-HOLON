@@ -12,7 +12,7 @@ April 30, 2021
 
 [Stage III -IDO Ready](https://github.com/stephen-rowan/Governance-HOLON/blob/main/Documents/Governance-of-Business-Relations/OccamFi/IDO-Preparation-Roadmap-OccamRazer.md#stage-iii---ido-ready)
 
-[Attachment-OccamFi Due Diligence Documentation Request]()
+[Attachment-OccamFi Due Diligence Documentation Request](https://github.com/stephen-rowan/Governance-HOLON/blob/main/Documents/Governance-of-Business-Relations/OccamFi/IDO-Preparation-Roadmap-OccamRazer.md#attachment-occamfi-due-diligence-documentation-request)
 
 [1.Token Information]()
 
