@@ -13,7 +13,7 @@ The Occam Association can assist across a broad range of issues spanning from te
 
 ### Project Requirements
 
-1. Clear idea of the project written out in an initial pitch deck or whitepaper.
+1.Clear idea of the project written out in an initial pitch deck or whitepaper.
 
 2.Initial development (product) roadmap.
 
@@ -40,7 +40,7 @@ Here the Occam Association can assist with building the community, make intros t
 
 ### Project Requirements
 
-1.	MVP product (prototype) either one of the following: 
+1. MVP product (prototype) either one of the following: 
 
 a) Well thought of and described technical architecture of an MVP of the product). 
 
@@ -78,27 +78,27 @@ The Occam Association can assist with, among others, the PR and community activa
 
 ### Project Requirements
 
-1.Issued token
+1. Issued token
 
 2. A company ready to be engaged to provide a legal opinion regarding the token – the Occam Association can provide support with regard to this
 
 3. Clearly described and elaborated token economics including the utility and token allocation and distribution(vesting).
 
-4.Go-to-Market (GMT strategy.
+4. Go-to-Market (GMT strategy.
 
 5. Some community built.
 
 6. IDO specification.
 
-7.Legal entity(company).
+7. Legal entity(company).
 
 ### Occam Association’s Support
 
-1.PR & community activation activities.
+1. PR & community activation activities.
 
-2.Facilitate community management on Telegram.
+2. Facilitate community management on Telegram.
 
-3.Conduct the IDO.
+3. Conduct the IDO.
 
 ## Attachment-OccamFi Due Diligence Documentation Request
 
@@ -107,37 +107,37 @@ Should you have any questions feel free to contact us at contact@occam.fi.
 
 ### 1.TokenInformation
 
-1.Type.
+1. Type.
 
-2.Decimals.
+2. Decimals.
 
-3.Total supply.
+3. Total supply.
 
-4.Circulating supply.
+4. Circulating supply.
 
-5.Contract address.
+5. Contract address.
 
-6.Trading information.
+6. Trading information.
 
 ### 2.Documents
 
-1.TechnicalAudit(link)
+1. TechnicalAudit(link)
 
-2.LegalOpinion(link)
+2. LegalOpinion(link)
 
-3.Company Information (incorporation etc.)(link)
+3. Company Information (incorporation etc.)(link)
 
-4.PitchDeck(link)
+4. PitchDeck(link)
 
-5.Whitepaper(link)
+5. Whitepaper(link)
 
-6.Website(link)
+6. Website(link)
 
-7.Github(link)
+7. Github(link)
 
-8.SocialMediaURLs(link)
+8. SocialMediaURLs(link)
 
-9.Roadmapdescription(link):
+9. Roadmapdescription(link):
 
 ### 3. Past Token Raise Information 
 
@@ -145,22 +145,22 @@ Please provide some information,if any,regarding the pastfundraising for your pr
 
 ### 4.OccamRazer IDO Details
 
-1.Start Date & time(approximate).
+1. Start Date & time(approximate).
 
-2.End Date & time(approximate).
+2. End Date & time(approximate).
 
-3.Softcap.
+3. Softcap.
 
-4.Hardcap.
+4. Hardcap.
 
-5.Link to logo type.
+5. Link to logo type.
 
-6.Description (maxlength-680 symbols).
+6. Description (maxlength-680 symbols).
 
-7.Team members information.
+7. Team members information.
 
-8.Min contribution.
+8. Min contribution.
 
-9.Max allocation.
+9. Max allocation.
 
-10.Desired social media links.
+10. Desired social media links.
