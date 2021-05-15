@@ -6,15 +6,20 @@ April 30, 2021
 
 ## Table of Contents
 
-Stage I – Idea – Proof of Concept
+[Stage I – Idea – Proof of Concept](## Stage I – Idea – Proof of Concept)
+
 Stage II – Minimum Viable Product (MVP) 
+
 Stage III -IDO Ready
 
 Attachment-OccamFi Due Diligence Documentation Request
 
 1.Token Information
+
 2. Documents
+
 3. Past Token Raise Information 
+
 4. OccamRazer IDO Details
 
 ## Stage I – Idea – Proof of Concept
