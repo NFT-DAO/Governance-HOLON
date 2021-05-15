@@ -4,6 +4,19 @@
 
 April 30, 2021
 
+## Table of Contents
+
+Stage I – Idea – Proof of Concept
+Stage II – Minimum Viable Product (MVP) 
+Stage III -IDO Ready
+
+Attachment-OccamFi Due Diligence Documentation Request
+
+1.Token Information
+2. Documents
+3. Past Token Raise Information 
+4. OccamRazer IDO Details
+
 ## Stage I – Idea – Proof of Concept
 
 <hr>
@@ -111,7 +124,7 @@ The Occam Association can assist with, among others, the PR and community activa
 The documentation requested below is necessary for the OccamFi Due Diligence team to carry out the necessary checks in order to help you execute a successful IDO on the OccamRazer platform. 
 Should you have any questions feel free to contact us at contact@occam.fi.
 
-### 1.TokenInformation
+### 1.Token Information
 
 1. Type.
 
@@ -125,7 +138,7 @@ Should you have any questions feel free to contact us at contact@occam.fi.
 
 6. Trading information.
 
-### 2.Documents
+### 2. Documents
 
 1. TechnicalAudit(link)
 
