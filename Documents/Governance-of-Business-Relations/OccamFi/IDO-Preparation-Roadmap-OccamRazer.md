@@ -20,7 +20,7 @@ April 30, 2021
 
 - [3. Past Token Raise Information](https://github.com/stephen-rowan/Governance-HOLON/blob/main/Documents/Governance-of-Business-Relations/OccamFi/IDO-Preparation-Roadmap-OccamRazer.md#3-past-token-raise-information)
 
-- [4. OccamRazer IDO Details]()
+- [4. OccamRazer IDO Details](https://github.com/stephen-rowan/Governance-HOLON/blob/main/Documents/Governance-of-Business-Relations/OccamFi/IDO-Preparation-Roadmap-OccamRazer.md#4-occamrazer-ido-details)
 
 ## Stage I – Idea – Proof of Concept
 
