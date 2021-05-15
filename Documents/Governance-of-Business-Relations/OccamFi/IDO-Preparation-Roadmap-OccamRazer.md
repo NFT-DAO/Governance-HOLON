@@ -6,6 +6,8 @@ April 30, 2021
 
 ## Stage I – Idea – Proof of Concept
 
+<hr>
+
 During this stage we expect that the project has a well argumented idea Of the project they are willing to build as well as a robust development (product) roadmap outlining when the products will be ready to onboard users.
 The Occam Association can assist across a broad range of issues spanning from technology to branding.
 
@@ -32,6 +34,8 @@ The Occam Association can assist across a broad range of issues spanning from te
 5.Team appearance consultation.
 
 ## Stage II – Minimum Viable Product (MVP) 
+
+<hr>
 
 In this stage of the IDO preparation process the project is expected to have some form of an MVP, thorough whitepaper, and branded website. 
 Here the Occam Association can assist with building the community, make intros to VCs and funds, and more strategic items.
@@ -68,6 +72,8 @@ c) An MVP of the product deployed on test net or mainnet with fully functioning 
 
 ## Stage III
 
+<hr>
+
 ## IDO Ready
 
 This final stage entails that the project is nearly ready for an IDO at OccamRazer. 
@@ -99,6 +105,8 @@ The Occam Association can assist with, among others, the PR and community activa
 3. Conduct the IDO.
 
 ## Attachment-OccamFi Due Diligence Documentation Request
+
+<hr>
 
 The documentation requested below is necessary for the OccamFi Due Diligence team to carry out the necessary checks in order to help you execute a successful IDO on the OccamRazer platform. 
 Should you have any questions feel free to contact us at contact@occam.fi.
