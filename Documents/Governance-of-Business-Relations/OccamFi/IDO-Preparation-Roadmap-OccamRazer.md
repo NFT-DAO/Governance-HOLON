@@ -88,11 +88,9 @@ c) An MVP of the product deployed on test net or mainnet with fully functioning 
 
 5. Set-up company structure
 
-## Stage III
+## Stage III - IDO Ready
 
 <hr>
-
-## IDO Ready
 
 This final stage entails that the project is nearly ready for an IDO at OccamRazer. 
 The prerequisites include an issued token, legal opinion, at least one technical audit, GTM strategy, a legal entity and a flourishing and happy community that understands the product(s) and is familiar with the OccamRazer platform. 
