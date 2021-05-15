@@ -16,7 +16,7 @@ April 30, 2021
 
 - [1.Token Information](https://github.com/stephen-rowan/Governance-HOLON/blob/main/Documents/Governance-of-Business-Relations/OccamFi/IDO-Preparation-Roadmap-OccamRazer.md#1-token-information)
 
-- [2. Documents]()
+- [2. Documents](https://github.com/stephen-rowan/Governance-HOLON/blob/main/Documents/Governance-of-Business-Relations/OccamFi/IDO-Preparation-Roadmap-OccamRazer.md#2-documents)
 
 - [3. Past Token Raise Information]()
 
