@@ -127,7 +127,7 @@ The Occam Association can assist with, among others, the PR and community activa
 The documentation requested below is necessary for the OccamFi Due Diligence team to carry out the necessary checks in order to help you execute a successful IDO on the OccamRazer platform. 
 Should you have any questions feel free to contact us at contact@occam.fi.
 
-### 1.Token Information
+### 1. Token Information
 
 1. Type.
 
@@ -165,7 +165,7 @@ Should you have any questions feel free to contact us at contact@occam.fi.
 
 Please provide some information,if any,regarding the pastfundraising for your project
 
-### 4.OccamRazer IDO Details
+### 4. OccamRazer IDO Details
 
 1. Start Date & time(approximate).
 
