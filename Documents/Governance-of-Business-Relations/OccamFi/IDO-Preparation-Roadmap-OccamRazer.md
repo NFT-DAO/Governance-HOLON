@@ -14,13 +14,13 @@ April 30, 2021
 
 [Attachment-OccamFi Due Diligence Documentation Request](https://github.com/stephen-rowan/Governance-HOLON/blob/main/Documents/Governance-of-Business-Relations/OccamFi/IDO-Preparation-Roadmap-OccamRazer.md#attachment-occamfi-due-diligence-documentation-request)
 
-[1.Token Information]()
+- [1.Token Information]()
 
-[2. Documents]()
+- [2. Documents]()
 
-[3. Past Token Raise Information]()
+- [3. Past Token Raise Information]()
 
-[4. OccamRazer IDO Details]()
+- [4. OccamRazer IDO Details]()
 
 ## Stage I – Idea – Proof of Concept
 
