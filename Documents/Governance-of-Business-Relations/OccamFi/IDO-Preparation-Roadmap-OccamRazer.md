@@ -9,8 +9,6 @@ April 30, 2021
 During this stage we expect that the project has a well argumented idea Of the project they are willing to build as well as a robust development (product) roadmap outlining when the products will be ready to onboard users.
 The Occam Association can assist across a broad range of issues spanning from technology to branding.
 
-## Stage I : Idea / Proof of Concept
-
 ### Project Requirements
 
 1.Clear idea of the project written out in an initial pitch deck or whitepaper.
