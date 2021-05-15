@@ -6,7 +6,7 @@ April 30, 2021
 
 ## Table of Contents
 
-[Stage I – Idea – Proof of Concept](## Stage I – Idea – Proof of Concept)
+[Stage I – Idea – Proof of Concept](https://github.com/stephen-rowan/Governance-HOLON/blob/main/Documents/Governance-of-Business-Relations/OccamFi/IDO-Preparation-Roadmap-OccamRazer.md#stage-i--idea--proof-of-concept)
 
 Stage II – Minimum Viable Product (MVP) 
 
