@@ -10,7 +10,7 @@
 
 5 - What measures have you put in place to ensure that participants of your launchpad can avoid a similar user experience?
 
-6 - As an investor, you appear to be requesting 20% of equity in NFT-DAO, which is a considerable amount for an investment that the DAO can generate through its own product launches. Will you consider lowering your investment share, and will you consider investing in individual products of the DAO rather than in the whole DAO itself?
+6 - As an investor, you appear to be requesting 20% of equity in NFT-DAO, which is a considerable amount. Will you consider lowering your investment share, and will you consider investing in individual products of the DAO rather than in the whole DAO itself?
 
 7 - There have been concerns raised about OccamFi's presentation of Scalable Solutions as an audit. Do you see this as a conflict of interest?
 
