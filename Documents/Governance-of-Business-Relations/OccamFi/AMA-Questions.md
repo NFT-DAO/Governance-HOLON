@@ -20,7 +20,14 @@
 
 3 - If OccamFi's "IDO Preparation Roadmap" and Due Dilgence process is open-source - can you provide a repository location ?
 
+# New Mindflow (Rareș & Anamaria)
 
+1. In your initial public offering the amount of OCC tokens that you’ve put up for sale represented 0.2% of the total amount.
+Why is that? Especially considering that a requirement for projects that go through your launchpad platform is 20%?
+
+
+2. In a comment on your “Open Letter” Medium article it is stated “seeing major official IOHK supported Cardano projects outright ban OCC from interacting with their platform forever”.
+Could you please elaborate on that. From your knowledge what project is the author of the comment referring to? And how do you plan to address these concerns?
 
 
 
