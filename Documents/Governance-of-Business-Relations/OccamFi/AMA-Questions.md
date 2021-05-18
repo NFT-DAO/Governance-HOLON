@@ -19,7 +19,6 @@
 9 - How many people are involved in the operations of OccamFi?
 
 
-
 # New Mindflow (Rareș & Anamaria)
 
 1. In your initial public offering the amount of OCC tokens that you’ve put up for sale represented 0.2% of the total amount.
@@ -29,7 +28,8 @@ Why is that? Especially considering that a requirement for projects that go thro
 2. In a comment on your “Open Letter” Medium article it is stated “seeing major official IOHK supported Cardano projects outright ban OCC from interacting with their platform forever”.
 Could you please elaborate on that. From your knowledge what project is the author of the comment referring to? And how do you plan to address these concerns?
 
-
-
-# JO8N (John)
-Multiple NFT proposals to Project Catalyst unified to form the single NFT-DAO proposal that the Cardano community voted to fund. How does OccamFi plan to facilitate continued collaboration and funding for NFT-DAO within the Project Catalyst platform?
+## Q's from Dan
+1. What was the reason for not mentioning the audit company was owned by Co Founder Mark Berger? (i know already asked but wanted to know the motivation behind it)
+2. Why weren't concerns from community about gas fees and launching on ETH, were addressed before the launch?
+3. What's the advantage of your IDO proof-of-concept over doing a manual token sale for 200 investors, with a random draw? (which would have been more fair and less expensive for all involved parties)
+4. Why not use Native MultiAsset support of Cardano to do an offering (especially with the above mentioned manual sale of 200 random draws)?
