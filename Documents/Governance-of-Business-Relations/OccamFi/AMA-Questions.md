@@ -31,3 +31,5 @@ Could you please elaborate on that. From your knowledge what project is the auth
 
 
 
+# JO8N (John)
+Multiple NFT proposals to Project Catalyst unified to form the single NFT-DAO proposal that the Cardano community voted to fund. How does OccamFi plan to facilitate continued collaboration and funding for NFT-DAO within the Project Catalyst platform?
