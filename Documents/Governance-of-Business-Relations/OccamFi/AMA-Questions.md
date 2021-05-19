@@ -24,9 +24,11 @@
 1. In your initial public offering the amount of OCC tokens that you’ve put up for sale represented 0.2% of the total amount.
 Why is that? Especially considering that a requirement for projects that go through your launchpad platform is 20%?
 
-
 2. In a comment on your “Open Letter” Medium article it is stated “seeing major official IOHK supported Cardano projects outright ban OCC from interacting with their platform forever”.
 Could you please elaborate on that. From your knowledge what project is the author of the comment referring to? And how do you plan to address these concerns?
+
+3. Are you suggesting a valuation for NFT-DAO? If so, what would that be? And how accurately do you think it can be made now before the DAO launches any actual products? 
+To better establish the value of the DAO wouldn't it make more sense to wait until the DAO launches at least its initial products?
 
 ## Q's from Dan
 1. What was the reason for not mentioning the audit company was owned by Co Founder Mark Berger? (i know already asked but wanted to know the motivation behind it)
