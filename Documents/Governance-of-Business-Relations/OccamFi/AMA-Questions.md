@@ -37,6 +37,8 @@ To better establish the value of the DAO wouldn't it make more sense to wait unt
 4. Why not use Native MultiAsset support of Cardano to do an offering (especially with the above mentioned manual sale of 200 random draws)?
 
 # John's Questions
-1. Multiple NFT proposals to Project Catalyst unified to form the single NFT-DAO proposal that the Cardano community voted to fund. How does OccamFi plan to facilitate continued collaboration and funding for NFT-DAO within the Project Catalyst platform?
-2. Given the controversy surrounding OccamFi's IDO, what would OccamFi do differently in hindsight? 
-3. If given the opportunity, how would OccamFi handle an NFT-DAO IDO? What would OccamFi do the same or differently from their own IDO?
+1. How are you doing today?
+2. Why did you choose the name OccamFi, when Occam's Razor states "entities should not be multiplied unnecessarily"?
+3. Multiple NFT proposals to Project Catalyst unified to form the single NFT-DAO proposal that the Cardano community voted to fund. How does OccamFi plan to facilitate continued collaboration and funding for NFT-DAO within the Project Catalyst platform?
+4. Given the controversy surrounding OccamFi's IDO, what would OccamFi do differently in hindsight? 
+5. If given the opportunity, how would OccamFi handle an NFT-DAO IDO? What would OccamFi do the same or differently from their own IDO?
